@@ -1,0 +1,30 @@
+C:\Users\FARUKOKSUZ\Desktop\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\bin\Debug\Proje_2_MayinTarlasi.exe.config
+C:\Users\FARUKOKSUZ\Desktop\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\bin\Debug\Proje_2_MayinTarlasi.exe
+C:\Users\FARUKOKSUZ\Desktop\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\bin\Debug\Proje_2_MayinTarlasi.pdb
+C:\Users\FARUKOKSUZ\Desktop\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.csprojAssemblyReference.cache
+C:\Users\FARUKOKSUZ\Desktop\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.Form1.resources
+C:\Users\FARUKOKSUZ\Desktop\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.Properties.Resources.resources
+C:\Users\FARUKOKSUZ\Desktop\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.csproj.GenerateResource.cache
+C:\Users\FARUKOKSUZ\Desktop\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\FARUKOKSUZ\Desktop\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.exe
+C:\Users\FARUKOKSUZ\Desktop\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.pdb
+F:\Ders\Bilgisayar Mühendisliği\Yeni klasör\3.Sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\bin\Debug\Proje_2_MayinTarlasi.exe.config
+F:\Ders\Bilgisayar Mühendisliği\Yeni klasör\3.Sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\bin\Debug\Proje_2_MayinTarlasi.exe
+F:\Ders\Bilgisayar Mühendisliği\Yeni klasör\3.Sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\bin\Debug\Proje_2_MayinTarlasi.pdb
+F:\Ders\Bilgisayar Mühendisliği\Yeni klasör\3.Sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.csprojAssemblyReference.cache
+F:\Ders\Bilgisayar Mühendisliği\Yeni klasör\3.Sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.Form1.resources
+F:\Ders\Bilgisayar Mühendisliği\Yeni klasör\3.Sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.Properties.Resources.resources
+F:\Ders\Bilgisayar Mühendisliği\Yeni klasör\3.Sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.csproj.GenerateResource.cache
+F:\Ders\Bilgisayar Mühendisliği\Yeni klasör\3.Sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.csproj.CoreCompileInputs.cache
+F:\Ders\Bilgisayar Mühendisliği\Yeni klasör\3.Sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.exe
+F:\Ders\Bilgisayar Mühendisliği\Yeni klasör\3.Sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.pdb
+D:\YEDEKLER\Ders\Bilgisayar Mühendisliği\3.sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\bin\Debug\Proje_2_MayinTarlasi.exe.config
+D:\YEDEKLER\Ders\Bilgisayar Mühendisliği\3.sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\bin\Debug\Proje_2_MayinTarlasi.exe
+D:\YEDEKLER\Ders\Bilgisayar Mühendisliği\3.sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\bin\Debug\Proje_2_MayinTarlasi.pdb
+D:\YEDEKLER\Ders\Bilgisayar Mühendisliği\3.sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.csprojAssemblyReference.cache
+D:\YEDEKLER\Ders\Bilgisayar Mühendisliği\3.sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.Form1.resources
+D:\YEDEKLER\Ders\Bilgisayar Mühendisliği\3.sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.Properties.Resources.resources
+D:\YEDEKLER\Ders\Bilgisayar Mühendisliği\3.sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.csproj.GenerateResource.cache
+D:\YEDEKLER\Ders\Bilgisayar Mühendisliği\3.sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.csproj.CoreCompileInputs.cache
+D:\YEDEKLER\Ders\Bilgisayar Mühendisliği\3.sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.exe
+D:\YEDEKLER\Ders\Bilgisayar Mühendisliği\3.sınıf\3 Güz\Görsel Programlama\Projeler\Proje_2_MayinTarlasi\Proje_2_MayinTarlasi\obj\Debug\Proje_2_MayinTarlasi.pdb
